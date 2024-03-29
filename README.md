@@ -1,4 +1,3 @@
-# about me
 ## Curriculum vitae, grants, paper & ongoing projects
 ````
 **Johannes Cunow**
@@ -8,8 +7,8 @@ johannes.cunow@gmail.com
 	`rgb(9, 105, 218)`
 ````
 
-``
+````
 **keywords:** *Terrestrial Ecology, Root Dynamics, Soil Processes, Greenhouse Gases, Herbivory, Reindeer, Snow Cover Changes*
-``
+````
 
 
