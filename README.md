@@ -9,7 +9,7 @@
 >#### **keywords:**  
 >*Terrestrial Ecology, Root Dynamics, Soil Processes, Greenhouse Gases, Herbivory, Reindeer, Snow Cover Changes*
 
->### * **Conferences:**
+>###  **Conferences:**
 >  * 2023_09 CIRC Symposium
 >     * Abisko, Topic: in prep. 
 >  * 2024_02 EcoClimate Workshop
