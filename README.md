@@ -1,4 +1,4 @@
-## Curriculum vitae, grants, paper & ongoing projects
+## _Curriculum vitae_
 
 >### **Johannes Cunow**
 >Doctorial Canditate  
