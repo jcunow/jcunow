@@ -18,13 +18,13 @@
 >     * Lund, Topic: in prep.
 
 >### **Funding:**
->  * 2023 INTERACT  
+>  * 2023 INTERACT (Grant Agreement No. 871120) 
 
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Boreal Forests
 >    
 >  * ##### PhenoLink
->    Linking of Above- and Belowground Growth to Gas Exchange under Snowmelt und Grazing Influence 
+>    Linking of Above- and Belowground Growth to CO2 Exchange under Snowmelt und Grazing Influence 
 >
 >  * ##### Minirhizotron R package
 >    
