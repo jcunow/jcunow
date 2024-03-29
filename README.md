@@ -17,10 +17,16 @@
 >  * 2024_03 Nordic OIKOS 2024
 >     * Lund, Topic: in prep.
 
+>### **Funding:**
+>  * 2023 INTERACT  
 
 >### **Ongoing Projects:**
->  * Spatial Root Response to Reindeer Grazing in Boreal Forests
+>  * ##### Spatial Root Response to Reindeer Grazing in Boreal Forests
+>    
 >  * ##### PhenoLink
->  * ![20230502_103813](https://github.com/jcunow/jcunow/assets/164625771/d7c4cd70-2ef0-4694-9b8b-241df3861ca6)
->  * Minirhizotron R package
->  * Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
+>    Linking of Above- and Belowground Growth to Gas Exchange under Snowmelt und Grazing Influence 
+>
+>  * ##### Minirhizotron R package
+>    
+>  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
+>    
