@@ -32,4 +32,7 @@
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
 >
 >  * ##### FineCoarseStem Continuum under Snow 
->
+>![20240306_093907_2](https://github.com/jcunow/jcunow/assets/164625771/5dc891cb-e461-41d2-98ea-e7552e5bc11a)
+
+> ![20210802_142738_2](https://github.com/jcunow/jcunow/assets/164625771/33c70d44-9d5a-494d-8f5a-069b0968f2ae)
+
