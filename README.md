@@ -1,5 +1,5 @@
 ## _Curriculum vitae_
-<img src= 'https://github.com/jcunow/jcunow/assets/164625771/e511cb1b-0e79-41c1-828b-89ca62b28a1f/20231019_092135_2.jpg' width='3500' height='400'>
+<img src= 'https://github.com/jcunow/jcunow/assets/164625771/5dc891cb-e461-41d2-98ea-e7552e5bc11a/20231019_092135_2.jpg' width='3500' height='350'>
 
 >### **Johannes Cunow**
 >Doctorial Canditate  
@@ -33,5 +33,5 @@
 >
 >  * ##### FineCoarseStem Continuum under Snow 
 
-<img src= 'https://github.com/jcunow/jcunow/assets/164625771/5dc891cb-e461-41d2-98ea-e7552e5bc11a/20231019_092135_2.jpg' width='3500' height='400'>
+<img src= 'https://github.com/jcunow/jcunow/assets/164625771/e511cb1b-0e79-41c1-828b-89ca62b28a1f/20231019_092135_2.jpg' width='3500' height='400'>
 
