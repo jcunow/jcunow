@@ -33,5 +33,3 @@
 >
 >  * ##### FineCoarseStem Continuum under Snow 
 
-<img src= 'https://github.com/jcunow/jcunow/assets/164625771/e511cb1b-0e79-41c1-828b-89ca62b28a1f/20231019_092135_2.jpg' width='3500' height='400'>
-
