@@ -13,7 +13,7 @@
 >### **Papers:**
 >  nothing to see here - ever
 
->###  **Conferences:**
+>### **Conferences:**
 >  * 2023_09 CIRC Symposium
 >     * Abisko, Topic: in prep. 
 >  * 2024_02 EcoClimate Workshop
@@ -23,6 +23,18 @@
 
 >### **Funding:**
 >  * 2023 INTERACT (Grant Agreement No. 871120) 
+
+>### **Teaching**
+> * 2023 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from egological studies
+> * 2023 Autumn   Naturens mångfald, Sampling methodology in the field and species identification
+
+>### **Third Cycle Education and specializing courses**
+> * 2023 Root Literature Course, Umeå SE
+> * 2024 Oral Presentation, Umeå SE
+> * 2023 Introduction to research ethics, Umeå SE
+> * 2024 Swedish for Academics 1, Umeå SE
+> * 2023 Techniques for environmental sampling, field and laboratory measurements and next-generation sequencing in microbiome studies, Oulanka Reseach Station FI, Oulu University
+> * 2024 Grazing and herbivory with focus on domestic ruminants and semi wild herbivores, Uppsala SE, SLU 
 
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
