@@ -8,7 +8,7 @@
 >
 >
 >#### **keywords:**  
->*Terrestrial Ecology, Root Dynamics, Soil Processes, Greenhouse Gases, Herbivory, Reindeer, Snow Cover Changes, Image Processing*
+>*Terrestrial Plant Ecology, Root Dynamics, Soil Processes, Greenhouse Gases, Herbivory, Reindeer, Snow Cover Changes, Image Processing*
 
 >### **Papers:**
 >  nothing to see here - ever
@@ -22,7 +22,8 @@
 >     * Lund, Topic: in prep.
 
 >### **Funding:**
->  * 2023 INTERACT (Grant Agreement No. 871120) 
+>  * 2023 INTERACT (Grant Agreement No. 871120)
+>  * 2024 Stiftelsen JC Kempe Minnes Stipendiefond
 
 >### **Teaching**
 > * 2023 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from egological studies
@@ -38,10 +39,11 @@
 
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
->    
+>    status: completed
 >  * ##### Minirhizotron R package
->    
+>    status: alpha version
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
->
->  * ##### FineCoarseStem Continuum under Snow 
+>    status: ongoing
+>  * ##### FineCoarseStem Continuum under Snow Cover Changes
+>    status: starting phase
 
