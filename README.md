@@ -41,7 +41,7 @@
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
 >    Description: 
 >    status: completed
->    <img src= 'https://github.com/jcunow/jcunow/assets/164625771/f529785a-8749-4378-a4c6-fe5a86ef15be.png' width='3500' height='350'>
+>    <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350'>
 
 
 >  * ##### Minirhizotron R package
