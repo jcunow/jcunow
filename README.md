@@ -41,8 +41,8 @@
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
 >    Description: 
 >    status: completed <br>
->    <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350' align='left' > 
->    <p>
+>    <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350' align='left' /> 
+   
 
 >  * ##### Minirhizotron R package
 >    status: alpha version
@@ -50,8 +50,8 @@
 
 > *  ##### PhenoLink
 >    status: ongoing <br>
->  <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='3500' height='350' align = 'left' > 
-> <p>
+>  <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='3500' height='350' align = 'left' /> 
+ 
 
 
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
