@@ -39,15 +39,24 @@
 
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
+>    Description: 
 >    status: completed
+>    <img src= 'https://github.com/jcunow/jcunow/assets/164625771/f529785a-8749-4378-a4c6-fe5a86ef15be.png' width='3500' height='350'>
+
+
 >  * ##### Minirhizotron R package
 >    status: alpha version
+
+
 > *  ##### PhenoLink
 >    status: ongoing
->  <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='3500' height='450'>
+>  <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='3500' height='350'>
+
 
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
 >    status: ongoing
+
+
 >  * ##### FineCoarseStem Continuum under Snow Cover Changes
 >    status: starting phase
 
