@@ -15,19 +15,24 @@
 
 >### **Conferences:**
 >  * 2023_09 CIRC Symposium
->     * Abisko, Topic: in prep. 
+>     * Abisko, Topic: Spatial Root Response to Reindeer Grazing in Northern Boreal Forests 
 >  * 2024_02 EcoClimate Workshop
->     * Oulanka, Topic: ongoing and future projects  
+>     * Oulanka, Topic: Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism &
+>       Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
 >  * 2024_03 Nordic OIKOS 2024
->     * Lund, Topic: in prep.
+>     * Lund, Topic: Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
 
 >### **Funding:**
 >  * 2023 INTERACT (Grant Agreement No. 871120)
 >  * 2024 Stiftelsen JC Kempe Minnes Stipendiefond
 
->### **Teaching**
-> * 2023 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from egological studies
+>### **Teaching/TA**
+> * 2023 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from ecological studies
 > * 2023 Autumn   Naturens mångfald, Sampling methodology in the field and species identification
+> * 2024 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from ecological studies
+> * 2024 Autumn   Naturens mångfald, Sampling methodology in the field and species identification
+> * 2024 Autumn   Biologi baskurs I, Field excursion learning about abiotic and biotic conditions and species assembly
+> * 2024 Autumn   Artkunskap och systematik, plant and insect identification    
 
 >### **Third Cycle Education and specializing courses**
 > * 2023 Root Literature Course, Umeå SE
@@ -39,25 +44,36 @@
 
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
->    Description: 
->    status: completed <br>
+>    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
+>    status: ongoing <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350'  /> 
    
 
->  * ##### Minirhizotron R package
->    status: alpha version
+>  * ##### MinirhizotronR R package
+>    Description: Enables a quasi-continuous depth analysis of Minirhizotron root scans
+>    status: CRAN submission soon
 
 
 > *  ##### PhenoLink
+>    Description: Continued Observation of Above- and Belowground Phenology Linkage to Carbon Exchange in Spring with Varying Snow Cover and Reindeer Grazing
 >    status: ongoing <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='3500' height='350'  /> 
  
 
 
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
+>    Description: Multiyear study of root dynamics using the Minirhizotrons in a sedge fen and pine forest
 >    status: ongoing
 
 
->  * ##### FineCoarseStem Continuum under Snow Cover Changes
->    status: starting phase
+>  * ##### Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism
+>    Description: Combining stem dendrometer, root dendrometer, and minirhizotron methodology to assess temporal dynamics across compartments
+>    status: started
+
+
+>  * ##### Methane Effective Root Traits
+>    Description: Root methane effective traits across plant communities and their upscaling potential
+>    status: planning
+
+
 
