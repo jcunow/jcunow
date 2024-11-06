@@ -1,5 +1,6 @@
 ## _Curriculum vitae_
-<img src= 'https://github.com/jcunow/jcunow/assets/164625771/5dc891cb-e461-41d2-98ea-e7552e5bc11a/20231019_092135_2.jpg' width='3500' height='350'>
+<img src= 'https://github.com/user-attachments/assets/9ec01937-99e4-41af-aa1a-524786117181.jpg' width='3500' height='350'>
+
 
 >### **Johannes Cunow**
 >Doctorial Canditate  
