@@ -1,7 +1,7 @@
 ## _Curriculum vitae_
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/27cd0e90-6220-465c-95fa-0dcda018b2c6/20231019_092135.jpg' width='3500' height='350'>
-<img src= 'https://github.com/user-attachments/assets/4b9f64a3-a316-41fe-960b-66d23153d1b4.jpg' width='3500' height='350'>
-![20240306_093907_2](https://github.com/user-attachments/assets/4b9f64a3-a316-41fe-960b-66d23153d1b4)
+<img src= 'https://github.com/jcunow/jcunow/assets/164625771/2a4a082d-aa20-4992-b4c2-2f6e20b5a989/20240306_093907_2.jpg' width='3500' height='350'>
+
 
 
 
