@@ -51,7 +51,9 @@
 >    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
 >    status: manuscript <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350'  />
-<img src= 'https://github.com/user-attachments/assets/3b76a657-caf6-489d-b0d6-c262b7faf976/20240523_211442_2.jpg' width='450' height='350'  />
+<img src= 'https://github.com/user-attachments/assets/4a888e69-26a5-4d35-9ff3-adadcfa5202a/20240523_211442_2.jpg' width='450' height='350'  />
+![20240523_211442_2](https://github.com/user-attachments/assets/4a888e69-26a5-4d35-9ff3-adadcfa5202a)
+
 <br>
 
 >  * ##### MinirhizotronR R package
