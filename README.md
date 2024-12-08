@@ -78,7 +78,7 @@
 >  * ##### Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism
 >    Description: Combining stem dendrometer, root dendrometer, and minirhizotron methodology to assess temporal dynamics of stem, coarse- and fine roots. 
 >    status: test instruments deployed
-<img src= 'https://github.com/user-attachments/assets/1b844bd9-a0b3-46e3-b550-c2a7d7cd3a34/20241001_123102.jpg' width='3500' height='350'>
+<img src= 'https://github.com/user-attachments/assets/1b844bd9-a0b3-46e3-b550-c2a7d7cd3a34.jpg' width='3500' height='350'>
 <br>
 
 
