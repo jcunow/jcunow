@@ -51,10 +51,6 @@
 >    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
 >    status: manuscript <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350'  />
-<img src= 'https://github.com/user-attachments/assets/4733acab-fa48-4fa0-8fc5-640d8a39b9cc/20240523_211442_2.jpg' width='450' height='350'  />
-![20240523_211442_2](https://github.com/user-attachments/assets/4733acab-fa48-4fa0-8fc5-640d8a39b9cc)
-
-
 <br>
 
 >  * ##### MinirhizotronR R package
@@ -67,7 +63,7 @@
 >    Description: Continued Observation of Above- and Belowground Phenology Linkage to Carbon Exchange in Spring with Varying Snow Cover and Reindeer Grazing
 >    status: Sampling completed, Data Analysis <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='3500' height='350'  /> 
- <br>
+<br>
 
 
 
@@ -80,7 +76,6 @@
 >  * ##### Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism
 >    Description: Combining stem dendrometer, root dendrometer, and minirhizotron methodology to assess temporal dynamics of stem, coarse- and fine roots. 
 >    status: test instruments deployed
-<img src= 'https://github.com/user-attachments/assets/efe1f611-0c2a-4428-ad64-e04639d2f332/20241001_123102.jpg'>
 <br>
 
 
