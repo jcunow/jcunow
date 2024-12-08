@@ -50,19 +50,22 @@
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
 >    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
 >    status: manuscript <br>
-<img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350'  /> 
-   
+<img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350'  />
+<img src= 'https://github.com/user-attachments/assets/3b76a657-caf6-489d-b0d6-c262b7faf976/20240523_211442_2.jpg' width='450' height='350'  />
+<br>
 
 >  * ##### MinirhizotronR R package
 >    Description: Enables a quasi-continuous depth analysis of Minirhizotron root scans
 >    status: CRAN submission soon
+<br>
 
 
 > *  ##### PhenoLink
 >    Description: Continued Observation of Above- and Belowground Phenology Linkage to Carbon Exchange in Spring with Varying Snow Cover and Reindeer Grazing
 >    status: Sampling completed, Data Analysis <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='3500' height='350'  /> 
- 
+ <br>
+
 
 
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
@@ -70,15 +73,19 @@
 >    status: Sampling ongoing, Data Analaysis
 
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/27cd0e90-6220-465c-95fa-0dcda018b2c6/20231019_092135.jpg' width='3500' height='350'>
+<br>
 
 >  * ##### Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism
 >    Description: Combining stem dendrometer, root dendrometer, and minirhizotron methodology to assess temporal dynamics of stem, coarse- and fine roots. 
 >    status: test instruments deployed
+<img src= 'https://github.com/user-attachments/assets/1b844bd9-a0b3-46e3-b550-c2a7d7cd3a34/20241001_123102.jpg' width='3500' height='350'>
+<br>
 
 
 >  * ##### Methane Effective Root Traits
 >    Description: Predicting root methane effective traits across plant communities and their upscaling potential under localized hydrological influence 
 >    status: sampling campaign 2025
+<br>
 
 
 
