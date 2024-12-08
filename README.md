@@ -50,7 +50,7 @@
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
 >    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
 >    status: manuscript <br>
-<img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350'  />
+<img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png'  width='100%' height='100%'  />
 <br>
 
 >  * ##### MinirhizotronR R package
@@ -62,7 +62,7 @@
 > *  ##### PhenoLink
 >    Description: Continued Observation of Above- and Belowground Phenology Linkage to Carbon Exchange in Spring with Varying Snow Cover and Reindeer Grazing
 >    status: Sampling completed, Data Analysis <br>
-<img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='3500' height='350'  /> 
+<img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='100%' height='100%'  /> 
 <br>
 
 
@@ -70,12 +70,13 @@
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
 >    Description: Multiyear study of root dynamics using the Minirhizotrons in a sedge fen and pine forest
 >    status: Sampling ongoing, Data Analaysis
-<img src= 'https://github.com/jcunow/jcunow/assets/164625771/27cd0e90-6220-465c-95fa-0dcda018b2c6/20231019_092135.jpg' width='3500' height='350'>
+<img src= 'https://github.com/jcunow/jcunow/assets/164625771/27cd0e90-6220-465c-95fa-0dcda018b2c6/20231019_092135.jpg' width='100%' height='100%'>
 <br>
 
 >  * ##### Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism
 >    Description: Combining stem dendrometer, root dendrometer, and minirhizotron methodology to assess temporal dynamics of stem, coarse- and fine roots. 
 >    status: test instruments deployed
+>    <img src= 'https://github.com/user-attachments/assets/6c4f9bfd-28e7-4196-be70-03d9f14bafe5' width='100%' height='100%'>
 <br>
 
 
