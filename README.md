@@ -1,5 +1,5 @@
 ## _Curriculum vitae_
-<img src= 'https://github.com/jcunow/jcunow/assets/164625771/2a4a082d-aa20-4992-b4c2-2f6e20b5a989/20240306_093907_2.jpg' width='3500' height='350'>
+<img src= 'https://github.com/jcunow/jcunow/assets/164625771/2a4a082d-aa20-4992-b4c2-2f6e20b5a989/20240306_093907_2.jpg' width='100%' height='100%'>
 
 
 
