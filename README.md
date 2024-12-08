@@ -51,8 +51,9 @@
 >    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
 >    status: manuscript <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png' width='450' height='350'  />
-<img src= 'https://github.com/user-attachments/assets/4a888e69-26a5-4d35-9ff3-adadcfa5202a/20240523_211442_2.jpg' width='450' height='350'  />
-![20240523_211442_2](https://github.com/user-attachments/assets/4a888e69-26a5-4d35-9ff3-adadcfa5202a)
+<img src= 'https://github.com/user-attachments/assets/4733acab-fa48-4fa0-8fc5-640d8a39b9cc/20240523_211442_2.jpg' width='450' height='350'  />
+![20240523_211442_2](https://github.com/user-attachments/assets/4733acab-fa48-4fa0-8fc5-640d8a39b9cc)
+
 
 <br>
 
@@ -73,14 +74,14 @@
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
 >    Description: Multiyear study of root dynamics using the Minirhizotrons in a sedge fen and pine forest
 >    status: Sampling ongoing, Data Analaysis
-
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/27cd0e90-6220-465c-95fa-0dcda018b2c6/20231019_092135.jpg' width='3500' height='350'>
 <br>
 
 >  * ##### Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism
 >    Description: Combining stem dendrometer, root dendrometer, and minirhizotron methodology to assess temporal dynamics of stem, coarse- and fine roots. 
 >    status: test instruments deployed
-<img src= 'https://github.com/user-attachments/assets/1b844bd9-a0b3-46e3-b550-c2a7d7cd3a34.jpg' width='3500' height='350'>
+<img src= 'https://github.com/user-attachments/assets/efe1f611-0c2a-4428-ad64-e04639d2f332/20241001_123102.jpg' width='3500' height='350'>
+![20241001_123102](https://github.com/user-attachments/assets/efe1f611-0c2a-4428-ad64-e04639d2f332)
 <br>
 
 
