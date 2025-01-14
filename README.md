@@ -24,6 +24,8 @@
 >       Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
 >  * 2024_03 Nordic OIKOS 2024
 >     * Lund, Topic: Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
+>  * 2024_12 BES Annual Meeting,
+>    * Liverpool, Topic: Qunatifying Minirhizotron's Internal Root Prevalence Bias. A simple Problem, A simple calibration solution. Call to Action! 
 
 >### **Funding:**
 >  * 2023 INTERACT 
@@ -54,14 +56,15 @@
 <br>
 
 >  * ##### MinirhizotronR R package
->    Description: Enables a quasi-continuous depth analysis of Minirhizotron root scans
+>    Description: Enables a quasi-continuous depth analysis of Minirhizotron root scans in R
+>    Features include: creating continues depth mapping, quantifying rotational bias, estimate root diameter distribution, calculate root kimura root length, accessible skeletonization algorithm, deep drive trait estimation, root angle distriburtion.
 >    status: CRAN submission soon
 <br>
 
 
 > *  ##### PhenoLink
 >    Description: Continued Observation of Above- and Belowground Phenology Linkage to Carbon Exchange in Spring with Varying Snow Cover and Reindeer Grazing
->    status: Sampling completed, Data Analysis <br>
+>    status: Sampling completed, Data Analysis, Manuscript writing <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='100%' height='100%'  /> 
 <br>
 
@@ -72,6 +75,7 @@
 >    status: Sampling ongoing, Data Analaysis
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/27cd0e90-6220-465c-95fa-0dcda018b2c6/20231019_092135.jpg' width='100%' height='100%'>
 <br>
+
 
 >  * ##### Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism
 >    Description: Combining stem dendrometer, root dendrometer, and minirhizotron methodology to assess temporal dynamics of stem, coarse- and fine roots. 
