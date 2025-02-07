@@ -10,4 +10,6 @@
 
 > - **week 05:** Does soil health (e.g., Aggregate stability) and farming practice (e.g., crop cover) Limit microbial colonization potential via soil erosion mechanisms (wind/water)
 
-> - **week 06:** Capture diurnal variation in root exudates and resupply them to soil at differing soil temperature and moisture conditions. Exudation composition and quantity should be assessed. Using isotope labeling, we can try to further trace the origin of the exudation/time lag. Supplying it to varying soil conditions sheds light on soil conditions crerated by grazers such as reindeer.  
+> - **week 06:** Capture diurnal variation in root exudates and resupply them to soil at differing soil temperature and moisture conditions. Exudation composition and quantity should be assessed. Using isotope labeling, we can try to further trace the origin of the exudation/time lag. Supplying it to varying soil conditions sheds light on soil conditions crerated by grazers such as reindeer.
+
+> - **week 07:** Twst the methodological bias of scanning resolution on root tip density. One dataset with a range of original scanning resolution within a System of similar functional plant types. another dataset in which the original resolution is down and upsampled to increased or decrease resolution.
