@@ -26,12 +26,16 @@
 >       Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
 >  * 2024_03 Nordic OIKOS 2024
 >     * Lund, Topic: Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
->  * 2024_12 BES Annual Meeting,
->    * Liverpool, Topic: Qunatifying Minirhizotron's Internal Root Prevalence Bias. A simple Problem, A simple calibration solution. Call to Action! 
+>  * 2024_12 BES Annual Meeting
+>    * Liverpool, Topic: Qunatifying Minirhizotron's Internal Root Prevalence Bias. A simple Problem, A simple calibration solution. Call to Action!
+>  * 2025_05 EGU General Assembly 
+>    * Vienna, Tpoic: Snow depth shapes aboveground but not belowground phenology during snowmelt, influencing carbon exchange in a northern boreal peatland
+>    * [https://doi.org/10.5194/egusphere-egu25-2050]
 
 >### **Funding:**
 >  * 2023 INTERACT 
 >  * 2024 Stiftelsen JC Kempe Minnes Stipendiefond
+>  * 2025 J C Kempes Akademiska fonder I och II
 
 >### **Teaching/TA**
 > * 2023 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from ecological studies
