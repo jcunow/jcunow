@@ -30,3 +30,5 @@
 
 >- **week 16:** get to the bottom of the Root growth limitation debate. In dry ecosystems, moisture can be limiting. Under nebulous circumstances, nutrients  can be limiting. In cold systems, temperature and photosynthetic availability have been proposed. Let's test test soil warming versus snowfree for an evergreen and deciduous plant community. Give them either access to light or access to warmth or the combination.
  
+>- **week 20** How much methane is oxidized within wetland plants? We know there are plants speceis that fascillitate methane emission - are there root traits that fascillitate methanotrophs and meyhae oxidation? Sampling roots from a community traced to an individual plant. Sample methanotrophs inside the root tissue in the aerenchymatic root space. Find a way to surpress oxidation (CH2F2?) inside the roots to assess oxidation process rates and whether they correspond to methanotroph colonization and plant species / root trait expression. 
+ 
