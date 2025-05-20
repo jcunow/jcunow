@@ -32,10 +32,11 @@
 >    * Vienna, Tpoic: Snow depth shapes aboveground but not belowground phenology during snowmelt, influencing carbon exchange in a northern boreal peatland
 >    * [https://doi.org/10.5194/egusphere-egu25-2050]
 
->### **Funding:**
+>### **Funding & GRants:**
 >  * 2023 INTERACT 
 >  * 2024 Stiftelsen JC Kempe Minnes Stipendiefond
 >  * 2025 J C Kempes Akademiska fonder I och II
+>  * 2025 Stiftelsen Gunnar och Ruth Björkmans fond för norrländsk botanisk forskning
 
 >### **Teaching/TA**
 > * 2023 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from ecological studies
