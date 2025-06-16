@@ -32,3 +32,12 @@
  
 >- **week 20** How much methane is oxidized within wetland plants? We know there are plants speceis that fascillitate methane emission - are there root traits that fascillitate methanotrophs and meyhae oxidation? Sampling roots from a community traced to an individual plant. Sample methanotrophs inside the root tissue in the aerenchymatic root space. Find a way to surpress oxidation (CH2F2?) inside the roots to assess oxidation process rates and whether they correspond to methanotroph colonization and plant species / root trait expression. 
  
+>- **week 25** Quantifying plastic pollution. Using FTIR, we can identify different types of plastics. Their spectrum is unique enough to maybe use a quantities PCA approach to say how much of a compound is in a sample. Test in pure soils first like quarz sand (beach sand) or high organics like prestige peat. Needs a to establish a calibration curve with known proportion of plastics.
+
+>- **week 25** Looking at priority effects belowground with by using fluorescent mutants in a minirhizotron setup. That way, we can test whether early and late arrival affect root biomass with species accuracy - otherwise nit possible.
+
+>- **week 25** 
+Perspectives paper on ecological meaning of novel minirhizotron traits such as deep-drive or root instances, rooting angle homogeneity, root instance area, soil coloration. 
+
+>- **week 25**
+Transpiration is definitely important in trees for methane emissions. People have suggested that the root uptake is the largest barrier for methane uptake from anoxic peat in graminoids. We also have some evidence for diurnal fluctuations of methane emissions. Hypothesis: methane uptake depends on transpiration rates. however, methane quickly enters the aerenchyma afterwards and hence the transpiration control is missed. simply manipulate vpd evaporative demand to induce transpiration variations. Time lags need further attention, as well as proposed diurnal oxidazation mechanisms.
