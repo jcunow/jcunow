@@ -36,8 +36,8 @@
 
 >- **week 25** Looking at priority effects belowground with by using fluorescent mutants in a minirhizotron setup. That way, we can test whether early and late arrival affect root biomass with species accuracy - otherwise nit possible.
 
->- **week 25** 
-Perspectives paper on ecological meaning of novel minirhizotron traits such as deep-drive or root instances, rooting angle homogeneity, root instance area, soil coloration. 
+>- **week 25** Perspectives paper on ecological meaning of novel minirhizotron traits such as deep-drive or root instances, rooting angle homogeneity, root instance area, soil coloration. 
 
->- **week 25**
-Transpiration is definitely important in trees for methane emissions. People have suggested that the root uptake is the largest barrier for methane uptake from anoxic peat in graminoids. We also have some evidence for diurnal fluctuations of methane emissions. Hypothesis: methane uptake depends on transpiration rates. however, methane quickly enters the aerenchyma afterwards and hence the transpiration control is missed. simply manipulate vpd evaporative demand to induce transpiration variations. Time lags need further attention, as well as proposed diurnal oxidazation mechanisms.
+>- **week 25** Transpiration is definitely important in trees for methane emissions. People have suggested that the root uptake is the largest barrier for methane uptake from anoxic peat in graminoids. We also have some evidence for diurnal fluctuations of methane emissions. Hypothesis: methane uptake depends on transpiration rates. however, methane quickly enters the aerenchyma afterwards and hence the transpiration control is missed. simply manipulate vpd evaporative demand to induce transpiration variations. Time lags need further attention, as well as proposed diurnal oxidazation mechanisms.
+
+>- **week 25** A climate gradient from northern scandinavia to central europe (and beyond) to sample ericoid root traits from multiple ericacious species in single-dominant stands - to then assess intra- and interspecies specific root trait variation, how much it varies between them and how responsive each species is to the background climate and soil fertility. Maybe also include the tree species. That would probably elevate it quite a bit and we can make stronger conclusions about the climate response of the ecosystem, of functional groups, of between species, and within species. 
