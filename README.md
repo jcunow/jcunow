@@ -45,7 +45,8 @@
 > * 2024 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from ecological studies
 > * 2024 Autumn   Naturens mångfald, Sampling methodology in the field and species identification
 > * 2024 Autumn   Biologi baskurs I, Field excursion learning about abiotic and biotic conditions and species assembly
-> * 2024 Autumn   Artkunskap och systematik, plant and insect identification    
+> * 2024 Autumn   Artkunskap och systematik, plant and insect identification
+> * 2025 Autumn   Artkunskap och systematik, plant and insect identification    
 
 >### **Third Cycle Education and specializing courses**
 > * 2023 Root Literature Course, Umeå SE
@@ -55,6 +56,8 @@
 > * 2023 Techniques for environmental sampling, field and laboratory measurements and next-generation sequencing in microbiome studies, Oulanka Reseach Station FI, Oulu University
 > * 2024 Grazing and herbivory with focus on domestic ruminants and semi wild herbivores, Uppsala SE, SLU
 > * 2024 Stable Isotope Tools in Earth System Science, Gothenburg SE, University of Gothenburg
+> * 2025 Soil Ecology, Wageningen NL, WUR
+> * 2025 Go Belowground, Nové Hrady CZ, Czech Academy of Sciences
 
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
@@ -63,7 +66,7 @@
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png'  width='100%' height='100%'  />
 <br>
 
->  * ##### RootScape (previously MinirhizotronR) R package
+>  * ##### RootScanR (previously MinirhizotronR) R package
 >    Description: Enables a quasi-continuous depth analysis of Minirhizotron root scans in R
 >    Features include: creating continues depth mapping, quantifying rotational bias, estimate root diameter distribution, calculate root kimura root length, accessible skeletonization algorithm, deep drive trait estimation, root angle distribution.
 >    status: CRAN submission soon
