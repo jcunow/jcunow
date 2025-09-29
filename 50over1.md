@@ -63,3 +63,6 @@
 >- **31) week 40** Reconstructing dispersal areas from intensive sampling. Once genome sequencing for many many samples becomes affordable to distinguish individuals, we can take samples on a dense grid to see how far a lineage got. To make life easy, start with clonal species e.g. a wetland. We could compare the same type of vegetation in wetlands with varying establishment age. Early establishment is expected to have higher germination success and thus a dispersal combination of seed and clone. Later stages are expected to expand their lineage area rather slow. The last stage is expected to have mire patchy lineage areas and the highest spatial entropy. It would be beneficial to use an ecosystem which starts without prior genomic legacy. Perhaps a salt marsh gradient would also work?!
 
 
+>- **32) week 40** Exploratory test what determines rhizome longevity, ramet persistence, root lifespan, and shoot life span. What determines a divergence between them? Are the these lifespan interrelated over a common strategy, and to what extent does a ceiling relationship contribute to their correlation? Could be database work, but it'd require descent measurements of multiple variables simultaneously 
+
+
