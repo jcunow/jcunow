@@ -65,4 +65,6 @@
 
 >- **32) week 40** Exploratory test what determines rhizome longevity, ramet persistence, root lifespan, and shoot life span. What determines a divergence between them? Are the these lifespan interrelated over a common strategy, and to what extent does a ceiling relationship contribute to their correlation? Could be database work, but it'd require descent measurements of multiple variables simultaneously 
 
+>- **33) week 42** Train a model on hemispherical canopy images throughout seasons to identify species  identity, species canopy contribution, species specific phenology, and mixing entropy of species. Also, twig vs leave area. Pure species annotations are easy against a bright background. leaves and twigs can be separated in rgb. mixed composition requires manual annotations. Images with known species occurrences are plenti available.
 
+>- **34) week 42** Same as #33 but on phenocam images to derive species specific access phenology. This might need multi/hyperspectral addition for training. The model should be capable of identifying a species accuratly throughout the phenological transitions and yield stats on it.
