@@ -69,3 +69,5 @@
 >- **34) week 42:** Same as #33 but on phenocam images to derive species specific access phenology. This might need multi/hyperspectral addition for training. The model should be capable of identifying a species accuratly throughout the phenological transitions and yield stats on it.
 
 >- **35) week 46:** Use passive acustic monitoring (soil sound) to observe how responsive earthworms are to drying conditions. A ongoing moderate drought experiment where partial nightly recharge occurs. Do earthworms adapt their dirurnal activity patterns in reponse to drying soil? Is there a threshold/breakpoint/non-linear? Biggest hurdle: making soil sound comparible across soil moisture conditions. Perhaps, we could use a calibration set with not soil fauna, adjusting the moisture and give an external sound stimulus to see how the soil conditions change the sound itself first.
+
+>-  **36) week 49:** Exploring how we can use location-scale model on old datasets to ask new research questions about the variance response of a treatment. Can we rewrite the article with an alternative question in mind if we apply a location-scale model instead. A recycling project.
