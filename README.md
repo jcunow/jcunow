@@ -38,6 +38,7 @@
 >  * 2025 J C Kempes Akademiska fonder I och II
 >  * 2025 Peat Needs 2025 - Peatland ECR Action Team 
 >  * 2025 Stiftelsen Gunnar och Ruth Björkmans fond för norrländsk botanisk forskning
+>  * 2025 Stiftelsen JC Kempe Minnes Stipendiefond
 
 >### **Teaching/TA**
 > * 2023 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from ecological studies
@@ -46,7 +47,8 @@
 > * 2024 Autumn   Naturens mångfald, Sampling methodology in the field and species identification
 > * 2024 Autumn   Biologi baskurs I, Field excursion learning about abiotic and biotic conditions and species assembly
 > * 2024 Autumn   Artkunskap och systematik, plant and insect identification
-> * 2025 Autumn   Artkunskap och systematik, plant and insect identification    
+> * 2025 Autumn   Artkunskap och systematik, plant and insect identification
+> * 2025 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from ecological studies 
 
 >### **Third Cycle Education and specializing courses**
 > * 2023 Root Literature Course, Umeå SE
@@ -62,7 +64,7 @@
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
 >    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
->    status: manuscript <br>
+>    status: Submission <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png'  width='100%' height='100%'  />
 <br>
 
@@ -75,7 +77,7 @@
 
 > *  ##### PhenoLink
 >    Description: Continued Observation of Above- and Belowground Phenology Linkage to Carbon Exchange in Spring with Varying Snow Cover and Reindeer Grazing
->    status: Sampling completed, Data Analysis, Manuscript writing <br>
+>    status: Manuscript Writing <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='100%' height='100%'  /> 
 <br>
 
@@ -83,21 +85,21 @@
 
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
 >    Description: Multiyear study of root dynamics using the Minirhizotrons in a sedge fen and pine forest
->    status: Sampling ongoing, Data Analaysis
+>    status:  Data Analysis, Manuscript Writing
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/27cd0e90-6220-465c-95fa-0dcda018b2c6/20231019_092135.jpg' width='100%' height='100%'>
 <br>
 
 
 >  * ##### Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism
 >    Description: Combining stem dendrometer, root dendrometer, and minirhizotron methodology to assess temporal dynamics of stem, coarse- and fine roots. 
->    status: test instruments deployed
+>    status: Instruments running
 >    <img src= 'https://github.com/user-attachments/assets/6c4f9bfd-28e7-4196-be70-03d9f14bafe5' width='100%' height='100%'>
 <br>
 
 
 >  * ##### Methane Effective Root Traits
 >    Description: Predicting root methane effective traits across plant communities and their upscaling potential under localized hydrological influence 
->    status: sampling campaign 2025
+>    status: Analysis
 <br>
 
 
