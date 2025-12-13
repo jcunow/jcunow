@@ -71,3 +71,7 @@
 >- **35) week 46:** Use passive acustic monitoring (soil sound) to observe how responsive earthworms are to drying conditions. A ongoing moderate drought experiment where partial nightly recharge occurs. Do earthworms adapt their dirurnal activity patterns in reponse to drying soil? Is there a threshold/breakpoint/non-linear? Biggest hurdle: making soil sound comparible across soil moisture conditions. Perhaps, we could use a calibration set with not soil fauna, adjusting the moisture and give an external sound stimulus to see how the soil conditions change the sound itself first.
 
 >-  **36) week 49:** Exploring how we can use location-scale model on old datasets to ask new research questions about the variance response of a treatment. Can we rewrite the article with an alternative question in mind if we apply a location-scale model instead. A recycling project.
+
+>- **37) week 50:** remove canopy dead standing biomass/ litter at the very end of the growing season to quantity the effect on snow accumulation, microclimate, on spring phenoligy.
+
+>- **38) week 50:** assess canopy complexity before the winter like litter height distribution. label individual sheets to see how fast the litter travels down and whether thicker snow cover lead to faster soil incorporation
