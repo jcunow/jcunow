@@ -81,3 +81,5 @@
 >- **40) week 50:** how much seasonal community turnover do soil viruses and host communities exhibit in Peatlands?
 
 >- **41) week 50:** what is the dispersal rate of microbes in the soil? inoculate sterile soil in a sterile environment with a strain of microbes and sample in spatial-temporal intervals to estimate the velocity of propergation.
+
+>- **42) week 50:** ammend potted plants different types of root herbivores with varying density, and measure the secondary metabolite concentration in the roots (and herbivores). Maybe label the plant with isotopes to confirm whether the root herbivore presence alone, or active feeding triggers a response. check for isotopes in the herbivores later.
