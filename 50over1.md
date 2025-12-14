@@ -75,3 +75,9 @@
 >- **37) week 50:** remove canopy dead standing biomass/ litter at the very end of the growing season to quantity the effect on snow accumulation, microclimate, on spring phenoligy.
 
 >- **38) week 50:** assess canopy complexity before the winter like litter height distribution. label individual sheets to see how fast the litter travels down and whether thicker snow cover lead to faster soil incorporation
+
+>- **39) week 50:** measure soil virus response curve to temperature in different seasons. maybe there is a temporal niche for them via host switching.
+
+>- **40) week 50:** how much seasonal community turnover do soil viruses and host communities exhibit in Peatlands?
+
+>- **41) week 50:** what is the dispersal rate of microbes in the soil? inoculate sterile soil in a sterile environment with a strain of microbes and sample in spatial-temporal intervals to estimate the velocity of propergation.
