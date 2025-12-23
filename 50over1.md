@@ -85,3 +85,9 @@
 >- **42) week 50:** ammend potted plants different types of root herbivores with varying density, and measure the secondary metabolite concentration in the roots (and herbivores). Maybe label the plant with isotopes to confirm whether the root herbivore presence alone, or active feeding triggers a response. check for isotopes in the herbivores later.
 
 >- **43) week 50:** ammend potted soil with phenol/ secondary compound cocktails which mimick various types of root litter. than measure whether it suppresses the successors root growth and soil biota.
+
+>- **44) week 52:** we still have very little idea what controls root phenoligy in perennial plants. Test the influence of demography on root growth onset/ ending. Old rhizomes may not invest in a future root system and preemption of soil but have more storage compounds accumulated to offset belowground growth from shoot growth.
+
+>- **4t) week 52:** create a database for secondary defensive metabolites in roots. 
+
+>- **4y) week 52:** aboveground,unpalatable plants like e.g., thorny shrubs can facilitate growth of other plants by extension of their self protection. Do we find these mechanisms belowground too? I suspect there is a size dependency between herbivores and defense effectiveness. If certain roots produce defensive metabolites that diffuse in the soil, this might deter root herbivory on other plants as well. There are supposedly examples in gardens. but not so much in natural systems. Testing facilitation. Could this partially explain cooccurance of plants?
