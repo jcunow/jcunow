@@ -104,3 +104,6 @@
 
 >- **52) week 53:** Extent image segmentation towards fungal hyphen detection in the soil. You could distinguish between classes of fungus like string networks and dense cluster, and ECT mycorrhiza. Simply create a large annotated dataset and widen classification to the number of classes proposed.
  
+----------------------------------
+
+>- **53) week 1:** calculate the precision of trees/plants to capture resources effectively. For example for open canopy plants, light is homogeneously available and capturing the light with as little througfall as possible indicates high precision after we account for the cost used to capture it. We need to measure the light before before the canopy (or supply it) and get the amount that is unused, but importantly as spatial map. Because the absolute amount of light going through the canopy is not as important. We need to account for the photosynthetic efficiency on the leaf level to determine the cost-benefit function which tells us better how much if the area is being over exploited (more leafs than necessary) and which are underexploited (less leafs than optimal). For that, we need to harvest the leafs in a spatial manner. Perhaps a grid assessment of light interception and leaf area would do. From there we can calculate "resource capture precision".
