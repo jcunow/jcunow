@@ -19,18 +19,29 @@
 >  nothing to see here - ever
 
 >### **Conferences:**
->  * 2023_09 CIRC Symposium
->     * Abisko, Topic: Spatial Root Response to Reindeer Grazing in Northern Boreal Forests 
->  * 2024_02 EcoClimate Workshop
->     * Oulanka, Topic: Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism &
+>  * 2023_09 CIRC - Symposium
+>     * Abisko SE, Topic: Spatial Root Response to Reindeer Grazing in Northern Boreal Forests 
+>  * 2024_02 EcoClimate - Workshop
+>     * Oulanka FI, Topic: Fine-Coarse-Stem Continuum under Snow Cover Changes and functional parallelism &
 >       Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
->  * 2024_03 Nordic OIKOS 2024
->     * Lund, Topic: Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
->  * 2024_12 BES Annual Meeting
->    * Liverpool, Topic: Qunatifying Minirhizotron's Internal Root Prevalence Bias. A simple Problem, A simple calibration solution. Call to Action!
->  * 2025_05 EGU General Assembly 
->    * Vienna, Tpoic: Snow depth shapes aboveground but not belowground phenology during snowmelt, influencing carbon exchange in a northern boreal peatland
+>  * 2024_03 NSO Nordic Oikos - Conference
+>     * Lund SE, Topic: Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
+>  * 2024_12 BES Annual Meeting - Conference
+>    * Liverpool GB, Topic: Qunatifying Minirhizotron's Internal Root Prevalence Bias. A simple Problem, A simple calibration solution. Call to Action!
+>  * 2025_05 EGU General Assembly - Conference
+>    * Vienna AT, Topic: Snow depth shapes aboveground but not belowground phenology during snowmelt, influencing carbon exchange in a northern boreal peatland
 >    * [https://doi.org/10.5194/egusphere-egu25-2050]
+>  * 2025_10 First Dendrometer Network Meeting - Workshop 
+>    * Oslo NO, Topic: Root Growth Synchronization in Snow Covered Boreal Forests,
+>    * Winning Prize: Most Innovative Application
+>  * 2025_05 Hidden Sinks: Arctic Methane Dynamics - Workshop
+>    * Gothenburg SE
+>  * 2026_06 Upcoming (confirmed): Biogeomon - Conference
+>    * Umeå SE, Topic: Seasonality of Root Mediated Methane: A Machine Learning Approach
+>  * 2026_09 Upcoming (confirmed): NSO + GFÖ - Conference
+>    * Odense DK, Chairing Thematic Session:  Plant and Soil Controls on Methane Fluxes
+
+
 
 >### **Funding & Grants:**
 >  * 2023 INTERACT 
@@ -60,6 +71,7 @@
 > * 2024 Stable Isotope Tools in Earth System Science, Gothenburg SE, University of Gothenburg
 > * 2025 Soil Ecology, Wageningen NL, WUR
 > * 2025 Go Belowground, Nové Hrady CZ, Czech Academy of Sciences
+> * 2026 Writinbg Grant Proposals that get Funded
 
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
