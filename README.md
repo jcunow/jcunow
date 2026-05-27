@@ -42,7 +42,6 @@
 >    * Odense DK, Chairing Thematic Session:  Plant and Soil Controls on Methane Fluxes
 
 
-
 >### **Funding & Grants:**
 >  * 2023 INTERACT 
 >  * 2024 Stiftelsen JC Kempe Minnes Stipendiefond
@@ -50,6 +49,14 @@
 >  * 2025 Peat Needs 2025 - Peatland ECR Action Team 
 >  * 2025 Stiftelsen Gunnar och Ruth Björkmans fond för norrländsk botanisk forskning
 >  * 2025 Stiftelsen JC Kempe Minnes Stipendiefond
+
+
+>### **Supervision:**
+> * Kiara Nowatzki, 2023, Intern, 7 weeks
+> * Juliette Helson, 2024, Intern, 7 weeks
+> * Juliana Almeida, 2026, Co-supervisor, Master Thesis
+> * Kaisa Säkkinen, 2026, Co-supervisor, Master Thesis, in progress.
+ 
 
 >### **Teaching/TA**
 > * 2023 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from ecological studies
@@ -61,7 +68,7 @@
 > * 2025 Autumn   Artkunskap och systematik, plant and insect identification
 > * 2025 Autumn   Analysis of Field Data, Data analysis and statistics in R with examples from ecological studies 
 
->### **Third Cycle Education and specializing courses**
+>### **Third Cycle Education and Specializing Courses**
 > * 2023 Root Literature Course, Umeå SE
 > * 2024 Oral Presentation, Umeå SE
 > * 2023 Introduction to research ethics, Umeå SE
@@ -71,7 +78,7 @@
 > * 2024 Stable Isotope Tools in Earth System Science, Gothenburg SE, University of Gothenburg
 > * 2025 Soil Ecology, Wageningen NL, WUR
 > * 2025 Go Belowground, Nové Hrady CZ, Czech Academy of Sciences
-> * 2026 Writinbg Grant Proposals that get Funded
+> * 2026 Writing Grant Proposals that get Funded
 
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
@@ -92,7 +99,6 @@
 >    status: Manuscript Writing <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='100%' height='100%'  /> 
 <br>
-
 
 
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
