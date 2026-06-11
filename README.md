@@ -31,12 +31,12 @@
 >  * 2025_05 EGU General Assembly - Conference
 >    * Vienna AT, Topic: Snow depth shapes aboveground but not belowground phenology during snowmelt, influencing carbon exchange in a northern boreal peatland
 >    * [https://doi.org/10.5194/egusphere-egu25-2050]
->  * 2025_10 First Dendrometer Network Meeting - Workshop 
+>  * 2025_10 1st Global Dendrometer Network - Workshop
 >    * Oslo NO, Topic: Root Growth Synchronization in Snow Covered Boreal Forests,
 >    * Winning Prize: Most Innovative Application
 >  * 2025_05 Hidden Sinks: Arctic Methane Dynamics - Workshop
 >    * Gothenburg SE
->  * 2026_06 Upcoming (confirmed): Biogeomon - Conference
+>  * 2026_06 Biogeomon - Conference
 >    * Umeå SE, Topic: Seasonality of Root Mediated Methane: A Machine Learning Approach
 >  * 2026_09 Upcoming (confirmed): NSO + GFÖ - Conference
 >    * Odense DK, Chairing Thematic Session:  Plant and Soil Controls on Methane Fluxes
@@ -83,7 +83,7 @@
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
 >    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
->    status: Submission <br>
+>    status: Revision <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png'  width='100%' height='100%'  />
 <br>
 
@@ -101,7 +101,7 @@
 <br>
 
 
->  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Ecosystems
+>  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Forests
 >    Description: Multiyear study of root dynamics using the Minirhizotrons in a sedge fen and pine forest
 >    status:  Data Analysis, Manuscript Writing
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/27cd0e90-6220-465c-95fa-0dcda018b2c6/20231019_092135.jpg' width='100%' height='100%'>
