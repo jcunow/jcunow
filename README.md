@@ -87,7 +87,7 @@
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png'  width='100%' height='100%'  />
 <br>
 
->  * ##### RootScanR (previously MinirhizotronR) R package
+>  * ##### Rootopia (previously RootScanR) R package
 >    Description: Enables a quasi-continuous depth analysis of Minirhizotron root scans in R
 >    Features include: creating continues depth mapping, quantifying rotational bias, estimate root diameter distribution, calculate root kimura root length, accessible skeletonization algorithm, deep drive trait estimation, root angle distribution.
 >    status: CRAN submission soon
