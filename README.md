@@ -83,14 +83,14 @@
 >### **Ongoing Projects:**
 >  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
 >    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
->    status: Revision <br>
+>    status: Accepted <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png'  width='100%' height='100%'  />
 <br>
 
 >  * ##### Rootopia (previously RootScanR) R package
 >    Description: Enables a quasi-continuous depth analysis of Minirhizotron root scans in R
 >    Features include: creating continues depth mapping, quantifying rotational bias, estimate root diameter distribution, calculate root kimura root length, accessible skeletonization algorithm, deep drive trait estimation, root angle distribution.
->    status: CRAN submission soon
+>    status: Final Bug searches and clean-ups. CRAN submission soon
 <br>
 
 
