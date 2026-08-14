@@ -16,7 +16,7 @@
 >*Terrestrial Plant Ecology, Root Dynamics, Soil Processes, Temporal Soil Ecology, Greenhouse Gas Fluxes, Herbivory, Reindeer, Snow Cover Changes, Image Processing*
 
 >### **Papers:**
->  nothing to see here - ever
+> [publications] (https://scholar.google.com/citations?user=y2x-fx8AAAAJ&hl=en&authuser=1&oi=ao)
 
 >### **Conferences:**
 >  * 2023_09 CIRC - Symposium
@@ -81,9 +81,9 @@
 > * 2026 Writing Grant Proposals that get Funded
 
 >### **Ongoing Projects:**
->  * ##### Spatial Root Response to Reindeer Grazing in Northern Boreal Forests
->    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in Finnish oligotrophic pine forests  
->    status: Accepted <br>
+>  * ##### Reindeer grazing induces spatial and functional shifts in root systems of boreal pine forests
+>    Description: Describing the vulnerability of roots to heavy reindeer grazing and the horizontal and vertical shifts of fine root biomass and root traits in oligotrophic pine forests  
+>    status:[Published] (https://doi.org/10.1002/oik.12211) <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/6370d866-a4a0-4535-a66d-9a27860637a6.png'  width='100%' height='100%'  />
 <br>
 
