@@ -13,7 +13,7 @@
 >
 >
 >#### **keywords:**  
->*Terrestrial Plant Ecology, Root Dynamics, Soil Processes, Temporal Soil Ecology, Greenhouse Gas Fluxes, Herbivory, Reindeer, Snow Cover Changes, Image Processing*
+>*Terrestrial Plant Ecology, Root Dynamics, Soil Processes, Temporal Soil Ecology, Greenhouse Gas Fluxes, Carbon-Water Dynamics, Herbivory, Reindeer, Snow Cover Changes, Drought, Image Processing*
 
 >### **Papers:**
 > [publications] (https://scholar.google.com/citations?user=y2x-fx8AAAAJ&hl=en&authuser=1&oi=ao)
