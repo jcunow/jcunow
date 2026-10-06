@@ -38,7 +38,7 @@
 >    * Gothenburg SE
 >  * 2026_06 Biogeomon - Conference
 >    * Umeå SE, Topic: Seasonality of Root Mediated Methane: A Machine Learning Approach
->  * 2026_09 Upcoming (confirmed): NSO + GFÖ - Conference
+>  * 2026_09 NSO Nordic Oikos + GFÖ - Conference
 >    * Odense DK, Chairing Thematic Session:  Plant and Soil Controls on Methane Fluxes
 
 
@@ -96,14 +96,14 @@
 
 > *  ##### PhenoLink
 >    Description: Continued Observation of Above- and Belowground Phenology Linkage to Carbon Exchange in Spring with Varying Snow Cover and Reindeer Grazing
->    status: Manuscript Writing <br>
+>    status: Submission <br>
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/ad23045f-9177-4a4a-9745-8fbe1ea37d9e.jpg' width='100%' height='100%'  /> 
 <br>
 
 
 >  * ##### Intra- and Interseaonal Root Dynamics under Reindeer Grazing and Snow Cover Changes in Boreal Forests
 >    Description: Multiyear study of root dynamics using the Minirhizotrons in a sedge fen and pine forest
->    status:  Data Analysis, Manuscript Writing
+>    status:  Manuscript Writing
 <img src= 'https://github.com/jcunow/jcunow/assets/164625771/27cd0e90-6220-465c-95fa-0dcda018b2c6/20231019_092135.jpg' width='100%' height='100%'>
 <br>
 
